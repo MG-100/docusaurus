@@ -493,6 +493,13 @@ const users = [
     tags: ['facebook'],
   },
   {
+    title: 'PuhHosting',
+    description: 'PuhHosting FAQ',
+    preview: require('./showcase/puhhosting.png'),
+    website: 'https://faq.puh.hosting/',
+    tags: ['hosting'],
+  },
+  {
     title: 'Pyre',
     description: 'A performant type-checker for Python 3',
     preview: require('./showcase/pyre.png'),
